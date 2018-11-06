@@ -7,7 +7,6 @@
  */
 
 import * as React from 'react';
-import { Platform } from 'react-native';
 
 import Stories from './src/Stories';
 
